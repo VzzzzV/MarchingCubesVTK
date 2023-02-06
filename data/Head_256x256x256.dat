@@ -1,0 +1,9 @@
+ObjectFileName: Head_256x256x256.raw
+TaggedFileName: ---
+Resolution:     256 256 256
+SliceThickness: 0.02 0.02 0.015
+Format:         UCHAR
+NbrTags:        0
+ObjectType:     TEXTURE_VOLUME_OBJECT
+ObjectModel:    DENSITY
+GridType:       EQUIDISTANT
